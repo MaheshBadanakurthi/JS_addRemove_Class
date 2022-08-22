@@ -1,0 +1,28 @@
+.pcolor{
+    background-image: linear-gradient(to right,navy,white);
+    text-align: center;
+    font-size: medium;
+}
+.pTextStyle{
+    font-style: italic;
+    color:red;
+    background-color: aliceblue;
+}
+#headtag3{
+    background-color: aqua;
+    color: red;
+    font-weight: bolder;
+}
+#secondPara{
+    background-color: black;
+    color:red;
+}
+a:hover{
+    background-color: aqua;
+    color: red;
+    font-weight: bold;
+}
+.wholeBody{
+    background-image: linear-gradient(to bottom,navy,white,yellow);
+
+}
